@@ -1,0 +1,42 @@
+<Arrows>
+
+    <arrow name = "arrow">
+
+        <animation image = "images/arrow.png">
+
+        </animation>
+
+    </arrow>
+
+    <arrow name = "poisonArrow">
+
+        <animation image = "images/poisonArrow.png">
+
+        </animation>
+
+    </arrow>
+    <arrow name = "explosiveArrow">
+
+        <animation image = "images/explosiveArrow.png">
+
+        </animation>
+
+    </arrow>
+    <arrow name = "frostArrow">
+
+        <animation image = "images/frostArrow.png">
+
+        </animation>
+
+    </arrow>
+    <arrow name = "pierceArrow">
+
+        <animation image = "images/pierceArrow.png">
+
+        </animation>
+
+    </arrow>
+
+</Arrows>
+
+

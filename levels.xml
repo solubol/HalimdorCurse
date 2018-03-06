@@ -1,0 +1,632 @@
+<levels>
+
+  <level level = "1" count="13" background="basic">
+    <creature name="Skeleton" posx = "1100" posy = "484" dt = "0"/>
+    <creature name="Skeleton" posx = "800" posy = "484" dt = "15"/>
+    <creature name="Skeleton" posx = "600" posy = "484" dt = "23"/>
+    
+    <creature name="Orc" posx = "1100" posy = "494" dt = "30"/>
+    <creature name="Orc" posx = "1100" posy = "494" dt = "45"/>
+    <creature name="Skeleton" posx = "600" posy = "484" dt = "60"/>
+    <creature name="Skeleton" posx = "900" posy = "484" dt = "65"/>
+    
+    <creature name="Orc" posx = "1100" posy = "494" dt = "80"/>
+	<creature name="BlueOrc" posx = "1100" posy = "494" dt = "85"/>
+    <creature name="Orc" posx = "1100" posy = "494" dt = "95"/>
+    
+    <creature name="Skeleton" posx = "800" posy = "494" dt = "110"/>
+    <creature name="Skeleton" posx = "850" posy = "494" dt = "118"/>
+    
+    <creature name="OrcBerserker" posx = "1100" posy = "494" dt = "127"/>
+    
+    </level>
+    <level level = "2" count="16" background="dark">
+    
+    <creature name="Skeleton" posx = "1000" posy = "484" dt = "3"/>
+    <creature name="Skeleton" posx = "950" posy = "484" dt = "4"/>
+    <creature name="Skeleton" posx = "650" posy = "484" dt = "5"/>
+	
+	<creature name="Skeleton" posx = "1000" posy = "484" dt = "16"/>
+    <creature name="Skeleton" posx = "550" posy = "484" dt = "19"/>
+    
+    <creature name="BlueOrc" posx = "1100" posy = "494" dt = "29"/>
+    
+    <creature name="Ward" posx = "1100" posy = "522" dt = "37"/>
+    
+    <creature name="Skeleton" posx = "1000" posy = "484" dt = "47"/>
+    
+    <creature name="BrownOrc" posx = "800" posy = "480" dt = "56"/>
+    <creature name="OrcBerserker" posx = "1100" posy = "494" dt = "70"/>
+    
+    <creature name="Ward" posx = "500" posy = "522" dt = "84"/>
+	<creature name="OrcBerserker" posx = "1100" posy = "494" dt = "97"/>
+    
+    <creature name="Bear" posx = "1100" posy = "464" dt = "110"/>
+    
+    <creature name="Orc" posx = "1100" posy = "494" dt = "120"/>
+    <creature name="BrownOrc" posx = "800" posy = "480" dt = "125"/>
+    
+    <creature name="Cyclops" posx = "1100" posy = "444" dt = "140"/>
+   
+	</level>
+    <level level = "3" count="9" background="basic">
+    <creature name="Lizard" posx = "1100" posy = "494" dt = "0"/>
+    <creature name="Lizard" posx = "1100" posy = "494" dt = "11"/>
+    <creature name="BrownOrc" posx = "1100" posy = "484" dt = "20"/>
+    
+    <creature name="Bear" posx = "1100" posy = "464" dt = "31"/>
+    
+    <creature name="Lizard" posx = "1100" posy = "494" dt = "48"/>
+    <creature name="RedLizard" posx = "1100" posy = "494" dt = "58"/>
+    
+    <creature name="Cyclops" posx = "1100" posy = "444" dt = "75"/>
+    
+    <creature name="RedLizard" posx = "1100" posy = "494" dt = "90"/>
+    
+    <creature name="Draken" posx = "1100" posy = "445" dt = "114"/>
+    
+    </level>
+
+    <level level = "4" count="19" background="dark">
+    <creature name="Ward" posx = "1100" posy = "522" dt = "0"/>
+    <creature name="Ward" posx = "1100" posy = "522" dt = "3"/>
+    
+    <creature name="Orc" posx = "1100" posy = "494" dt = "10"/>
+	<creature name="BlueOrc" posx = "1100" posy = "494" dt = "13"/>
+    <creature name="OrcBerserker" posx = "1100" posy = "494" dt = "17"/>
+    
+    <creature name="Cyclops" posx = "1100" posy = "444" dt = "27"/>
+    
+    <creature name="Human" posx = "1100" posy = "475" dt = "45"/>
+    <creature name="Human" posx = "1100" posy = "475" dt = "49"/>
+    
+    <creature name="Minotaur" posx = "1100" posy = "467" dt = "60"/>
+    
+    <creature name="BrownOrc" posx = "1100" posy = "480" dt = "75"/>
+    <creature name="BrownOrc" posx = "1100" posy = "480" dt = "79"/>
+    
+    <creature name="Lizard" posx = "1100" posy = "494" dt = "89"/>
+    <creature name="RedLizard" posx = "1100" posy = "494" dt = "95"/>
+    <creature name="Lizard" posx = "1100" posy = "494" dt = "100"/>
+    
+    <creature name="Human" posx = "1100" posy = "475" dt = "110"/>
+    
+    <creature name="Human" posx = "1100" posy = "475" dt = "120"/>
+    <creature name="Human" posx = "1100" posy = "475" dt = "132"/>
+    
+    <creature name="Cyclops" posx = "1100" posy = "444" dt = "137"/>
+    
+    <creature name="Minotaur" posx = "1100" posy = "467" dt = "151"/>
+    
+    
+    </level>
+    <level level = "5" count="14" background="basic">
+
+    <creature name="Orc" posx = "1100" posy = "494" dt = "0"/>
+    <creature name="BrownOrc" posx = "1100" posy = "484" dt = "8"/>
+    <creature name="BrownOrc" posx = "1100" posy = "484" dt = "15"/>
+
+    <creature name="Bear" posx = "1100" posy = "464" dt = "22"/>
+    <creature name="Bear" posx = "1100" posy = "464" dt = "28"/>
+
+    <creature name="Lizard" posx = "1100" posy = "494" dt = "37"/>
+    <creature name="RedLizard" posx = "1100" posy = "494" dt = "40"/>
+
+    <creature name="Minotaur" posx = "1100" posy = "467" dt = "50"/>
+
+    <creature name="Cyclops" posx = "1100" posy = "444" dt = "64"/>
+
+    <creature name="Bear" posx = "1100" posy = "464" dt = "73"/>
+    <creature name="BlueOrc" posx = "1100" posy = "494" dt = "80"/>
+    <creature name="OrcBerserker" posx = "1100" posy = "494" dt = "84"/>
+
+    <creature name="Cyclops" posx = "1100" posy = "444" dt = "100"/>
+    <creature name="Cyclops" posx = "1100" posy = "444" dt = "103"/>
+
+    
+    
+    </level>
+
+    <level level = "6" count="15" background="basic">
+
+    <creature name="Orc" posx = "1100" posy = "494" dt = "0"/>
+    <creature name="OrcBerserker" posx = "1100" posy = "494" dt = "8"/>
+    <creature name="BlueOrc" posx = "1100" posy = "494" dt = "13"/>
+
+    <creature name="Ward" posx = "1100" posy = "522" dt = "20"/>
+    <creature name="Ward" posx = "1100" posy = "522" dt = "27"/>
+
+
+    <creature name="Human" posx = "1100" posy = "475" dt = "40"/>
+    <creature name="Human" posx = "1100" posy = "475" dt = "42"/>
+    <creature name="Human" posx = "1100" posy = "475" dt = "44"/>
+
+    <creature name="OrcBerserker" posx = "1100" posy = "494" dt = "56"/>
+
+    <creature name="Scorn" posx = "1100" posy = "455" dt = "70"/>
+
+    <creature name="Minotaur" posx = "1100" posy = "467" dt = "87"/>
+    <creature name="Minotaur" posx = "1100" posy = "467" dt = "94"/>
+
+    <creature name="Balbar" posx = "1100" posy = "434" dt = "90"/>
+    <creature name="Skeleton" posx = "900" posy = "484" dt = "109"/>
+    <creature name="Skeleton" posx = "750" posy = "484" dt = "105"/>
+    
+    </level>
+
+    <level level = "7" count="23" background="dark">
+    <creature name="Skeleton" posx = "500" posy = "484" dt = "0"/>
+    <creature name="Skeleton" posx = "550" posy = "484" dt = "0"/>
+    <creature name="Skeleton" posx = "600" posy = "484" dt = "0"/>
+    <creature name="Skeleton" posx = "750" posy = "484" dt = "0"/>
+    <creature name="Skeleton" posx = "850" posy = "484" dt = "0"/>
+
+    <creature name="Bear" posx = "1100" posy = "464" dt = "12"/>
+    <creature name="Bear" posx = "1100" posy = "464" dt = "15"/>
+
+    <creature name="Lizard" posx = "1100" posy = "494" dt = "22"/>
+    <creature name="RedLizard" posx = "1100" posy = "494" dt = "24"/>
+    <creature name="Lizard" posx = "1100" posy = "494" dt = "25.5"/>
+
+    <creature name="Scorn" posx = "1100" posy = "455" dt = "38"/>
+    <creature name="Scorn" posx = "1100" posy = "455" dt = "46"/>
+
+    <creature name="Cyclops" posx = "1100" posy = "444" dt = "60"/>
+    <creature name="Cyclops" posx = "1100" posy = "444" dt = "67"/>
+
+    <creature name="RedLizard" posx = "1100" posy = "494" dt = "78"/>
+    <creature name="RedLizard" posx = "1100" posy = "494" dt = "81"/>
+    <creature name="OrcBerserker" posx = "1100" posy = "494" dt = "87"/>
+
+    <creature name="Skeleton" posx = "500" posy = "484" dt = "103"/>
+    <creature name="Skeleton" posx = "550" posy = "484" dt = "103"/>
+    <creature name="Skeleton" posx = "1000" posy = "484" dt = "103"/>
+    <creature name="Skeleton" posx = "950" posy = "484" dt = "103"/>
+    <creature name="Skeleton" posx = "650" posy = "484" dt = "103"/>
+
+    <creature name="AxeSoldier" posx = "900" posy = "485" dt = "120"/>
+    
+    </level>
+
+    <level level = "8" count="25" background="basic">
+      
+      <creature name="Minotaur" posx = "1100" posy = "467" dt = "0"/>
+      <creature name="Minotaur" posx = "1100" posy = "467" dt = "3"/>
+
+      <creature name="BrownOrc" posx = "1100" posy = "484" dt = "13"/>
+      <creature name="BrownOrc" posx = "1100" posy = "484" dt = "15"/>
+      <creature name="BrownOrc" posx = "1100" posy = "484" dt = "17"/>
+      <creature name="BrownOrc" posx = "1100" posy = "484" dt = "18"/>
+      <creature name="BrownOrc" posx = "1100" posy = "484" dt = "21"/>
+      <creature name="BrownOrc" posx = "1100" posy = "484" dt = "22"/>
+
+      <creature name="Scorn" posx = "1100" posy = "455" dt = "34"/>
+      <creature name="AxeSoldier" posx = "1100" posy = "485" dt = "39"/>
+
+
+      <creature name="Cyclops" posx = "1100" posy = "444" dt = "49"/>
+      <creature name="AxeSoldier" posx = "1100" posy = "485" dt = "52"/>
+
+      <creature name="Orc" posx = "1000" posy = "494" dt = "65"/>
+      <creature name="OrcBerserker" posx = "1100" posy = "494" dt = "66.5"/>
+      <creature name="BlueOrc" posx = "1100" posy = "494" dt = "68"/>
+      <creature name="BlueOrc" posx = "1100" posy = "494" dt = "70"/>
+      <creature name="OrcBerserker" posx = "1100" posy = "494" dt = "72"/>
+
+      <creature name="Cyclops" posx = "1100" posy = "444" dt = "82"/>
+      <creature name="Minotaur" posx = "1100" posy = "467" dt = "85"/>
+
+      <creature name="Ward" posx = "1100" posy = "522" dt = "87"/>
+
+      <creature name="Human" posx = "1100" posy = "475" dt = "96"/>
+      <creature name="RedLizard" posx = "1100" posy = "494" dt = "97"/>
+      <creature name="Human" posx = "1100" posy = "475" dt = "99"/>
+      <creature name="Human" posx = "1100" posy = "475" dt = "100"/>
+
+      <creature name="SwordFighter" posx = "1100" posy = "455" dt = "111"/>
+
+    </level>
+    
+    <level level = "9" count="32" background="basic">
+    <creature name="RedLizard" posx = "1100" posy = "494" dt = "0"/>
+    <creature name="RedLizard" posx = "1100" posy = "494" dt = "3"/>
+    <creature name="Lizard" posx = "1100" posy = "494" dt = "4"/>
+    <creature name="Cyclops" posx = "1100" posy = "444" dt = "6"/>
+    
+    <creature name="SwordFighter" posx = "1100" posy = "455" dt = "12"/>
+    <creature name="SwordFighter" posx = "1100" posy = "455" dt = "16"/>
+    
+    <creature name="Scorn" posx = "1100" posy = "455" dt = "26"/>
+    <creature name="AxeSoldier" posx = "1100" posy = "485" dt = "29"/>
+    
+    <creature name="Human" posx = "1100" posy = "475" dt = "36"/>
+    
+    <creature name="Minotaur" posx = "1100" posy = "467" dt = "42"/>
+    <creature name="Minotaur" posx = "1100" posy = "467" dt = "46"/>
+    <creature name="Minotaur" posx = "1100" posy = "467" dt = "52"/>
+    
+    <creature name="BrownOrc" posx = "1100" posy = "484" dt = "60"/>
+    <creature name="BlueOrc" posx = "1100" posy = "494" dt = "62"/>
+    <creature name="BrownOrc" posx = "1100" posy = "484" dt = "64"/>
+    <creature name="BrownOrc" posx = "1100" posy = "484" dt = "65"/>
+    <creature name="BrownOrc" posx = "1100" posy = "484" dt = "66.5"/>
+    
+    <creature name="SwordFighter" posx = "1100" posy = "455" dt = "74"/>
+    <creature name="Scorn" posx = "1100" posy = "455" dt = "80"/>
+    <creature name="AxeSoldier" posx = "1100" posy = "485" dt = "83"/>
+    
+    <creature name="Ward" posx = "1100" posy = "522" dt = "87"/>
+    <creature name="Ward" posx = "1100" posy = "522" dt = "88"/>
+    <creature name="Bear" posx = "1100" posy = "464" dt = "93"/>
+    <creature name="Orc" posx = "1100" posy = "494" dt = "96"/>
+    
+    <creature name="MazeKeeper" posx = "1100" posy = "405" dt = "119"/>
+    
+    <creature name="Human" posx = "1100" posy = "475" dt = "124"/>
+    <creature name="Human" posx = "1100" posy = "475" dt = "136"/>
+    
+    <creature name="Human" posx = "1100" posy = "475" dt = "150"/>
+    <creature name="Human" posx = "1100" posy = "475" dt = "170"/>
+    <creature name="Human" posx = "1100" posy = "475" dt = "188"/>
+    <creature name="Human" posx = "1100" posy = "475" dt = "195"/>
+    <creature name="Human" posx = "1100" posy = "475" dt = "200"/>
+    
+    </level>
+
+    <level level = "10" count="54" background="dark">
+    
+    <creature name="Scorn" posx = "1100" posy = "455" dt = "0"/>
+    <creature name="Orc" posx = "1100" posy = "494" dt = "5.5"/>
+    <creature name="OrcBerserker" posx = "1100" posy = "494" dt = "6"/>
+    <creature name="BlueOrc" posx = "1100" posy = "494" dt = "6.5"/>
+    <creature name="BlueOrc" posx = "1100" posy = "494" dt = "7"/>
+    <creature name="OrcBerserker" posx = "1100" posy = "494" dt = "7.5"/>
+    
+    <creature name="Skeleton" posx = "500" posy = "484" dt = "14"/>
+    <creature name="Skeleton" posx = "550" posy = "484" dt = "14"/>
+    <creature name="Skeleton" posx = "600" posy = "484" dt = "14"/>
+    <creature name="Skeleton" posx = "750" posy = "484" dt = "14"/>
+    <creature name="Skeleton" posx = "850" posy = "484" dt = "14"/>
+    
+    <creature name="Cyclops" posx = "1100" posy = "444" dt = "14"/>
+    <creature name="Minotaur" posx = "1100" posy = "467" dt = "17"/>
+    <creature name="Bear" posx = "1100" posy = "464" dt = "18"/>
+    
+    <creature name="SwordFighter" posx = "1100" posy = "455" dt = "27"/>
+    <creature name="SwordFighter" posx = "1100" posy = "455" dt = "30"/>
+    <creature name="SwordFighter" posx = "1100" posy = "455" dt = "35"/>
+    
+    <creature name="Skeleton" posx = "500" posy = "484" dt = "45"/>
+    <creature name="Skeleton" posx = "550" posy = "484" dt = "45"/>
+    <creature name="Skeleton" posx = "600" posy = "484" dt = "45"/>
+    <creature name="Skeleton" posx = "750" posy = "484" dt = "45"/>
+    <creature name="Skeleton" posx = "850" posy = "484" dt = "45"/>
+    
+    <creature name="Skeleton" posx = "500" posy = "484" dt = "51"/>
+    <creature name="Skeleton" posx = "550" posy = "484" dt = "51"/>
+    <creature name="Skeleton" posx = "600" posy = "484" dt = "51"/>
+    <creature name="Skeleton" posx = "700" posy = "484" dt = "51"/>
+    <creature name="Skeleton" posx = "1000" posy = "484" dt = "51"/>
+    
+    <creature name="Skeleton" posx = "500" posy = "484" dt = "55"/>
+    <creature name="Skeleton" posx = "550" posy = "484" dt = "55"/>
+    <creature name="Skeleton" posx = "650" posy = "484" dt = "55"/>
+    <creature name="Skeleton" posx = "750" posy = "484" dt = "55"/>
+    <creature name="Skeleton" posx = "900" posy = "484" dt = "55"/>
+    
+    <creature name="Human" posx = "1100" posy = "475" dt = "63"/>
+    <creature name="Human" posx = "1100" posy = "475" dt = "68"/>
+    
+    <creature name="AxeSoldier" posx = "1100" posy = "485" dt = "80"/>
+    <creature name="AxeSoldier" posx = "1100" posy = "485" dt = "82"/>
+    <creature name="AxeSoldier" posx = "1100" posy = "485" dt = "83"/>
+    
+    <creature name="Skeleton" posx = "500" posy = "484" dt = "85"/>
+    <creature name="Skeleton" posx = "550" posy = "484" dt = "85"/>
+    <creature name="Skeleton" posx = "650" posy = "484" dt = "85"/>
+    <creature name="Skeleton" posx = "750" posy = "484" dt = "85"/>
+    <creature name="Skeleton" posx = "900" posy = "484" dt = "85"/>
+    
+    <creature name="Skeleton" posx = "500" posy = "484" dt = "89"/>
+    <creature name="Skeleton" posx = "550" posy = "484" dt = "89"/>
+    <creature name="Skeleton" posx = "650" posy = "484" dt = "89"/>
+    <creature name="Skeleton" posx = "750" posy = "484" dt = "89"/>
+    <creature name="Skeleton" posx = "900" posy = "484" dt = "89"/>
+    
+    <creature name="RedLizard" posx = "1100" posy = "494" dt = "92"/>
+    <creature name="Lizard" posx = "1100" posy = "494" dt = "95"/>
+    <creature name="Cyclops" posx = "1100" posy = "444" dt = "100"/>
+    <creature name="Cyclops" posx = "1100" posy = "444" dt = "105"/>
+    
+    <creature name="SwordFighter" posx = "1100" posy = "455" dt = "111"/>
+    <creature name="Cyclops" posx = "1100" posy = "444" dt = "115"/>
+    <creature name="AxeSoldier" posx = "1100" posy = "485" dt = "118"/>
+    <creature name="SwordFighter" posx = "1100" posy = "455" dt = "123"/>
+    
+    </level>
+
+    <level level = "11" count="41" background="basic">
+	
+    <creature name="AxeSoldier" posx = "1100" posy = "485" dt = "0"/>
+    <creature name="AxeSoldier" posx = "1100" posy = "485" dt = "3"/>
+    <creature name="SwordFighter" posx = "1100" posy = "455" dt = "5"/>
+    <creature name="SwordFighter" posx = "1100" posy = "455" dt = "7"/>
+    <creature name="RedLizard" posx = "1100" posy = "494" dt = "12"/>
+    
+    <creature name="BrownOrc" posx = "1100" posy = "484" dt = "14"/>
+    <creature name="BrownOrc" posx = "1100" posy = "484" dt = "16"/>
+    <creature name="BrownOrc" posx = "1100" posy = "484" dt = "18"/>
+    <creature name="Human" posx = "1100" posy = "475" dt = "21"/>
+    <creature name="Human" posx = "1100" posy = "475" dt = "23"/>
+    
+    <creature name="Human" posx = "1100" posy = "475" dt = "24"/>
+    <creature name="Human" posx = "1100" posy = "475" dt = "25"/>
+    <creature name="Cyclops" posx = "1100" posy = "444" dt = "26"/>
+    <creature name="Cyclops" posx = "1100" posy = "444" dt = "30"/>
+    <creature name="Scorn" posx = "1100" posy = "455" dt = "35"/>
+    
+    <creature name="Scorn" posx = "1100" posy = "455" dt = "38"/>
+    <creature name="AxeSoldier" posx = "1100" posy = "485" dt = "41"/>
+    <creature name="AxeSoldier" posx = "1100" posy = "485" dt = "43"/>
+    <creature name="Scorn" posx = "1100" posy = "455" dt = "46"/>
+    <creature name="Bear" posx = "1100" posy = "464" dt = "49"/>
+    
+    <creature name="Orc" posx = "1100" posy = "494" dt = "51"/>
+    <creature name="Orc" posx = "1100" posy = "494" dt = "53"/>
+    <creature name="OrcBerserker" posx = "1100" posy = "494" dt = "55"/>
+    <creature name="SwordFighter" posx = "1100" posy = "455" dt = "61"/>
+    <creature name="SwordFighter" posx = "1100" posy = "455" dt = "63"/>
+    
+    <creature name="SwordFighter" posx = "1100" posy = "455" dt = "66"/>
+    <creature name="SwordFighter" posx = "1100" posy = "455" dt = "69"/>
+    <creature name="Minotaur" posx = "1100" posy = "467" dt = "73"/>
+    <creature name="Minotaur" posx = "1100" posy = "467" dt = "75"/>
+    <creature name="AxeSoldier" posx = "1100" posy = "485" dt = "80"/>
+    
+    <creature name="AxeSoldier" posx = "1100" posy = "485" dt = "85"/>
+    <creature name="Scorn" posx = "1100" posy = "455" dt = "88"/>
+    <creature name="Scorn" posx = "1100" posy = "455" dt = "91"/>
+    <creature name="RedLizard" posx = "1100" posy = "494" dt = "94"/>
+    <creature name="Human" posx = "1100" posy = "475" dt = "96"/>
+    
+    <creature name="Human" posx = "1100" posy = "475" dt = "97"/>
+    <creature name="Human" posx = "1100" posy = "475" dt = "100"/>
+    <creature name="SwordFighter" posx = "1100" posy = "455" dt = "104"/>
+    <creature name="SwordFighter" posx = "1100" posy = "455" dt = "108"/>
+    <creature name="AxeSoldier" posx = "1100" posy = "485" dt = "112"/>
+    
+    <creature name="AxeSoldier" posx = "1100" posy = "485" dt = "114"/>
+    </level>
+    
+    
+    <level level = "12" count="103" background="dark">
+    
+    <creature name="Skeleton" posx = "500" posy = "484" dt = "0"/>
+    <creature name="Skeleton" posx = "550" posy = "484" dt = "0"/>
+    <creature name="Skeleton" posx = "650" posy = "484" dt = "0"/>
+    <creature name="Skeleton" posx = "750" posy = "484" dt = "0"/>
+    <creature name="Skeleton" posx = "900" posy = "484" dt = "0"/>
+    
+    <creature name="Skeleton" posx = "500" posy = "484" dt = "3"/>
+    <creature name="Skeleton" posx = "550" posy = "484" dt = "3"/>
+    <creature name="Skeleton" posx = "650" posy = "484" dt = "3"/>
+    <creature name="Skeleton" posx = "750" posy = "484" dt = "3"/>
+    <creature name="Skeleton" posx = "900" posy = "484" dt = "3"/>
+    
+    <creature name="Skeleton" posx = "500" posy = "484" dt = "6"/>
+    <creature name="Skeleton" posx = "550" posy = "484" dt = "6"/>
+    <creature name="Skeleton" posx = "650" posy = "484" dt = "6"/>
+    <creature name="Skeleton" posx = "750" posy = "484" dt = "6"/>
+    <creature name="Skeleton" posx = "900" posy = "484" dt = "6"/>
+    
+    <creature name="SwordFighter" posx = "1100" posy = "455" dt = "0"/>
+    <creature name="SwordFighter" posx = "1100" posy = "455" dt = "2"/>
+    <creature name="Minotaur" posx = "1100" posy = "467" dt = "3"/>
+    <creature name="Minotaur" posx = "1100" posy = "467" dt = "4"/>
+    <creature name="AxeSoldier" posx = "1100" posy = "485" dt = "5"/>
+    
+    <creature name="Scorn" posx = "1100" posy = "455" dt = "9"/>
+    <creature name="Scorn" posx = "1100" posy = "455" dt = "11"/>
+    <creature name="Cyclops" posx = "1100" posy = "444" dt = "13"/>
+    <creature name="Cyclops" posx = "1100" posy = "444" dt = "15"/>
+    <creature name="SwordFighter" posx = "1100" posy = "455" dt = "16"/>
+
+    <creature name="Skeleton" posx = "500" posy = "484" dt = "17"/>
+    <creature name="Skeleton" posx = "550" posy = "484" dt = "17"/>
+    <creature name="Skeleton" posx = "650" posy = "484" dt = "17"/>
+    <creature name="Skeleton" posx = "750" posy = "484" dt = "17"/>
+    <creature name="Skeleton" posx = "900" posy = "484" dt = "17"/>
+    
+    <creature name="Skeleton" posx = "500" posy = "484" dt = "20"/>
+    <creature name="Skeleton" posx = "550" posy = "484" dt = "20"/>
+    <creature name="Skeleton" posx = "650" posy = "484" dt = "20"/>
+    <creature name="Skeleton" posx = "750" posy = "484" dt = "20"/>
+    <creature name="Skeleton" posx = "900" posy = "484" dt = "20"/>
+    
+    <creature name="Cyclops" posx = "1100" posy = "444" dt = "19"/>
+    <creature name="AxeSoldier" posx = "1100" posy = "485" dt = "21"/>
+    <creature name="RedLizard" posx = "1100" posy = "494" dt = "23"/>
+    <creature name="RedLizard" posx = "1100" posy = "494" dt = "25"/>
+    <creature name="Lizard" posx = "1100" posy = "494" dt = "27"/>
+    
+    <creature name="Skeleton" posx = "500" posy = "484" dt = "30"/>
+    <creature name="Skeleton" posx = "550" posy = "484" dt = "30"/>
+    <creature name="Skeleton" posx = "650" posy = "484" dt = "30"/>
+    <creature name="Skeleton" posx = "750" posy = "484" dt = "30"/>
+    <creature name="Skeleton" posx = "900" posy = "484" dt = "30"/>
+    
+    <creature name="BlackKnight" posx = "800" posy = "455" dt = "30"/>
+    <creature name="Skeleton" posx = "510" posy = "484" dt = "32"/>
+    <creature name="Skeleton" posx = "560" posy = "484" dt = "32"/>
+    <creature name="Skeleton" posx = "660" posy = "484" dt = "32"/>
+    <creature name="Skeleton" posx = "760" posy = "484" dt = "32"/>
+    
+    <creature name="Human" posx = "1100" posy = "475" dt = "35"/>
+    <creature name="Human" posx = "1100" posy = "475" dt = "37"/>
+    <creature name="Human" posx = "1100" posy = "475" dt = "39"/>
+    <creature name="SwordFighter" posx = "1100" posy = "455" dt = "46"/>
+    <creature name="Minotaur" posx = "1100" posy = "467" dt = "48"/>
+    
+    <creature name="Skeleton" posx = "500" posy = "484" dt = "50"/>
+    <creature name="Skeleton" posx = "550" posy = "484" dt = "50"/>
+    <creature name="Skeleton" posx = "650" posy = "484" dt = "50"/>
+    <creature name="Skeleton" posx = "750" posy = "484" dt = "50"/>
+    <creature name="Skeleton" posx = "900" posy = "484" dt = "50"/>
+    
+    <creature name="Skeleton" posx = "500" posy = "484" dt = "53"/>
+    <creature name="Skeleton" posx = "550" posy = "484" dt = "53"/>
+    <creature name="Skeleton" posx = "650" posy = "484" dt = "53"/>
+    <creature name="Skeleton" posx = "750" posy = "484" dt = "53"/>
+    <creature name="Skeleton" posx = "900" posy = "484" dt = "53"/>
+    
+    <creature name="Skeleton" posx = "500" posy = "484" dt = "56"/>
+    <creature name="Skeleton" posx = "550" posy = "484" dt = "56"/>
+    <creature name="Skeleton" posx = "650" posy = "484" dt = "56"/>
+    <creature name="Skeleton" posx = "750" posy = "484" dt = "56"/>
+    <creature name="Skeleton" posx = "900" posy = "484" dt = "56"/>
+    
+    <creature name="Minotaur" posx = "1100" posy = "467" dt = "51"/>
+    <creature name="BrownOrc" posx = "1100" posy = "484" dt = "60"/>
+    <creature name="BlueOrc" posx = "1100" posy = "494" dt = "62"/>
+    <creature name="BrownOrc" posx = "1100" posy = "484" dt = "64"/>
+    <creature name="BrownOrc" posx = "1100" posy = "484" dt = "65"/>
+    
+    <creature name="BrownOrc" posx = "1100" posy = "484" dt = "66.5"/>
+    <creature name="Minotaur" posx = "1100" posy = "467" dt = "70"/>
+    <creature name="AxeSoldier" posx = "1100" posy = "485" dt = "73"/>
+    <creature name="Human" posx = "1100" posy = "475" dt = "76"/>
+    <creature name="Human" posx = "1100" posy = "475" dt = "80"/>
+    
+    <creature name="Skeleton" posx = "500" posy = "484" dt = "80"/>
+    <creature name="Skeleton" posx = "550" posy = "484" dt = "80"/>
+    <creature name="Skeleton" posx = "650" posy = "484" dt = "80"/>
+    <creature name="Skeleton" posx = "750" posy = "484" dt = "80"/>
+    <creature name="Skeleton" posx = "900" posy = "484" dt = "80"/>
+    
+    <creature name="Skeleton" posx = "500" posy = "484" dt = "83"/>
+    <creature name="Skeleton" posx = "550" posy = "484" dt = "83"/>
+    <creature name="Skeleton" posx = "650" posy = "484" dt = "83"/>
+    <creature name="Skeleton" posx = "750" posy = "484" dt = "83"/>
+    <creature name="Skeleton" posx = "900" posy = "484" dt = "83"/>
+    
+    <creature name="Skeleton" posx = "500" posy = "484" dt = "86"/>
+    <creature name="Skeleton" posx = "550" posy = "484" dt = "86"/>
+    <creature name="Skeleton" posx = "650" posy = "484" dt = "86"/>
+    <creature name="Skeleton" posx = "750" posy = "484" dt = "86"/>
+    <creature name="Skeleton" posx = "900" posy = "484" dt = "86"/>
+    
+    <creature name="SwordFighter" posx = "1100" posy = "455" dt = "90"/>
+    <creature name="SwordFighter" posx = "1100" posy = "455" dt = "92"/>  
+    <creature name="SwordFighter" posx = "1100" posy = "455" dt = "94"/>
+    <creature name="SwordFighter" posx = "1100" posy = "455" dt = "96"/>
+    <creature name="AxeSoldier" posx = "1100" posy = "485" dt = "100"/>
+    
+    <creature name="AxeSoldier" posx = "1100" posy = "485" dt = "102"/>
+    <creature name="Scorn" posx = "1100" posy = "455" dt = "104"/>
+    <creature name="Scorn" posx = "1100" posy = "455" dt = "106"/>
+    
+    </level>
+    
+    
+    
+    
+    
+    
+    
+    <level level = "999" count="16" background="basic">
+	<creature name="Orc" posx = "1000" posy = "494" dt = "90"/>
+	<creature name="OrcBerserker" posx = "700" posy = "494" dt = "90"/>
+	<creature name="BlueOrc" posx = "800" posy = "494" dt = "90"/>
+
+	<creature name="Skeleton" posx = "600" posy = "484" dt = "90"/>
+	<creature name="Cyclops" posx = "1100" posy = "444" dt = "15"/>
+
+	<creature name="Minotaur" posx = "1100" posy = "467" dt = "20"/>
+
+	<creature name="Skeleton" posx = "500" posy = "494" dt = "8"/>
+
+	<creature name="Orc" posx = "1100" posy = "494" dt = "35"/>
+	<creature name="BlueOrc" posx = "1100" posy = "494" dt = "45"/>
+
+	<creature name="OrcBerserker" posx = "1100" posy = "494" dt = "5"/>
+
+	<creature name="Orc" posx = "1100" posy = "494" dt = "60"/>
+	<creature name="BlueOrc" posx = "1100" posy = "494" dt = "60"/>
+
+	<creature name="OrcBerserker" posx = "1100" posy = "494" dt = "68"/>
+
+	<creature name="Ward" posx = "500" posy = "522" dt = "0"/>
+
+	
+
+	</level>
+
+    <level level = "123421" count="12" background="dark">
+	
+
+
+
+
+
+
+      <creature name="SwordFighter" posx = "1100" posy = "455" dt = "0"/>
+    </level>
+
+
+
+
+    <level level = "999" count="16" background="basic">
+	<creature name="Orc" posx = "1000" posy = "494" dt = "90"/>
+	<creature name="OrcBerserker" posx = "700" posy = "494" dt = "90"/>
+	<creature name="BlueOrc" posx = "800" posy = "494" dt = "90"/>
+
+	<creature name="Skeleton" posx = "600" posy = "484" dt = "90"/>
+	<creature name="Cyclops" posx = "1100" posy = "444" dt = "15"/>
+
+	<creature name="Minotaur" posx = "1100" posy = "467" dt = "20"/>
+
+	<creature name="Skeleton" posx = "500" posy = "494" dt = "8"/>
+
+	<creature name="Orc" posx = "1100" posy = "494" dt = "35"/>
+	<creature name="BlueOrc" posx = "1100" posy = "494" dt = "45"/>
+
+	<creature name="OrcBerserker" posx = "1100" posy = "494" dt = "5"/>
+
+	<creature name="Orc" posx = "1100" posy = "494" dt = "60"/>
+	<creature name="BlueOrc" posx = "1100" posy = "494" dt = "60"/>
+
+	<creature name="OrcBerserker" posx = "1100" posy = "494" dt = "68"/>
+
+	<creature name="Ward" posx = "500" posy = "522" dt = "0"/>
+
+	
+
+	</level>
+
+    
+    
+	<level level = "299" count="12" background="dark">
+	<creature name="Balbar" posx = "700" posy = "434" dt = "10"/>
+
+	<creature name="RedLizard" posx = "700" posy = "494" dt = "210"/>
+	<creature name="BrownOrc" posx = "800" posy = "480" dt = "210"/>
+	<creature name="Bear" posx = "1000" posy = "470" dt = "110"/>
+    <creature name="AxeSoldier" posx = "900" posy = "485" dt = "110"/>
+    <creature name="Scorn" posx = "900" posy = "455" dt = "0"/>
+    <creature name="SwordFighter" posx = "700" posy = "455" dt = "0"/>
+	<creature name="BlackKnight" posx = "700" posy = "455" dt = "0"/>
+    <creature name="Draken" posx = "900" posy = "445" dt = "20"/>
+    <creature name="Human" posx = "800" posy = "494" dt = "0"/>
+	</level>
+	<level level = "399" count="9" background="dark">
+
+	<creature name="MazeKeeper" posx = "400" posy = "405" dt = "0"/>
+	
+	</level>
+    <level level = "499" count="9" background="dark">
+
+	<creature name="Ward" posx = "500" posy = "522" dt = "0"/>
+	</level>
+
+</levels>
+

@@ -1,0 +1,15 @@
+<Banners>
+    <banner level="1" posx = "186" posy="527"/>
+    <banner level="2" posx = "160" posy="455"/>
+    <banner level="3" posx = "240" posy="425"/>
+    <banner level="4" posx = "317" posy="397"/>
+    <banner level="5" posx = "255" posy="290"/>
+    <banner level="6" posx = "240" posy="170"/>
+    <banner level="7" posx = "417" posy="100"/>
+    <banner level="8" posx = "532" posy="90"/>
+    <banner level="9" posx = "635" posy="134"/>
+    <banner level="10" posx = "763" posy="198"/>
+    <banner level="11" posx = "754" posy="305"/>
+    <banner level="12" posx = "780" posy="430"/>
+</Banners>
+

@@ -1,0 +1,83 @@
+<Allies>
+    <enemy name = "Dwarf">
+        <walk count = "8" level1 = "images/dwarf2/dw1.png" level2 = "images/dwarf2/dw2.png" level3 = "images/dwarf2/dw3.png" level4 = "images/dwarf2/dw4.png" level5 = "images/dwarf2/dw5.png" level6 = "images/dwarf2/dw6.png" level7 = "images/dwarf2/dw7.png" level8 = "images/dwarf2/dw8.png"/>
+        <attack count = "3" level1 = "images/dwarf2/da1.png" level2 = "images/dwarf2/da2.png" level3 = "images/dwarf2/da3.png" level4 = "images/dwarf2/da4.png" level5 = "images/dwarf2/da5.png" level6 = "images/dwarf2/da6.png" level7 = "images/dwarf2/da7.png" level8 = "images/dwarf2/da8.png"/>
+        <die sheet = "images/dwarf2/dd_base.png" count = "5"/>
+        <Stats>
+            <spawnpos x="120" y = "505"/>
+            <level1 attack = "3" health = "40" manacost = "60"/>
+            <level2 attack = "5" health = "50" manacost = "70"/>
+            <level3 attack = "5" health = "60" manacost = "85"/>
+            <level4 attack = "6" health = "65" manacost = "90"/>
+            <level5 attack = "6" health = "70" manacost = "100"/>
+            <level6 attack = "7" health = "75" manacost = "110"/>
+            <level7 attack = "7" health = "85" manacost = "120"/>
+            <level8 attack = "8" health = "90" manacost = "125"/>
+        </Stats>
+    </enemy>
+    <enemy name = "Cleric">
+        <walk count = "8" level1 = "images/Cleric/cw1.png" level2 = "images/Cleric/cw2.png" level3 = "images/Cleric/cw3.png" level4 = "images/Cleric/cw4.png" level5 = "images/Cleric/cw5.png" level6 = "images/Cleric/cw6.png" level7 = "images/Cleric/cw7.png" level8 = "images/Cleric/cw8.png"/>
+        <attack count = "3" level1 = "images/Cleric/ca1.png" level2 = "images/Cleric/ca2.png" level3 = "images/Cleric/ca3.png" level4 = "images/Cleric/ca4.png" level5 = "images/Cleric/ca5.png" level6 = "images/Cleric/ca6.png" level7 = "images/Cleric/ca7.png" level8 = "images/Cleric/ca8.png"/>
+        <die sheet = "images/Cleric/cleric_d.png" count = "5"/>
+        <Stats>
+            <spawnpos x="120" y = "475"/>
+            <level1 attack = "2" health = "150" manacost = "200"/>
+            <level2 attack = "2" health = "170" manacost = "220"/>
+            <level3 attack = "3" health = "180" manacost = "240"/>
+            <level4 attack = "4" health = "190" manacost = "260"/>
+            <level5 attack = "5" health = "200" manacost = "280"/>
+            <level6 attack = "6" health = "210" manacost = "300"/>
+            <level7 attack = "7" health = "225" manacost = "310"/>
+            <level8 attack = "8" health = "260" manacost = "330"/>
+        </Stats>
+    </enemy>
+    <enemy name = "Wizard">
+        <walk count = "8" level1 = "images/Wizard/ww1.png" level2 = "images/Wizard/ww2.png" level3 = "images/Wizard/ww3.png" level4 = "images/Wizard/ww4.png" level5 = "images/Wizard/ww5.png" level6 = "images/Wizard/ww6.png" level7 = "images/Wizard/ww7.png" level8 = "images/Wizard/ww8.png"/>
+        <attack count = "3" level1 = "images/Wizard/wa1.png" level2 = "images/Wizard/wa2.png" level3 = "images/Wizard/wa3.png" level4 = "images/Wizard/wa4.png" level5 = "images/Wizard/wa5.png" level6 = "images/Wizard/wa6.png" level7 = "images/Wizard/wa7.png" level8 = "images/Wizard/wa8.png"/>
+        <die sheet = "images/Wizard/wd.png" count = "5"/>
+        <Stats>
+            <spawnpos x="120" y = "475"/>
+            <level1 attack = "5" health = "35" manacost = "215"/>
+            <level2 attack = "6" health = "35" manacost = "235"/>
+            <level3 attack = "8" health = "40" manacost = "250"/>
+            <level4 attack = "9" health = "40" manacost = "260"/>
+            <level5 attack = "10" health = "45" manacost = "275"/>
+            <level6 attack = "12" health = "50" manacost = "295"/>
+            <level7 attack = "13" health = "55" manacost = "300"/>
+            <level8 attack = "15" health = "60" manacost = "310"/>
+        </Stats>
+    </enemy>
+    <enemy name = "Elf">
+        <walk count = "8" level1 = "images/Elf/ew1.png" level2 = "images/Elf/ew2.png" level3 = "images/Elf/ew3.png" level4 = "images/Elf/ew4.png" level5 = "images/Elf/ew5.png" level6 = "images/Elf/ew6.png" level7 = "images/Elf/ew7.png" level8 = "images/Elf/ew8.png"/>
+        <attack count = "3" level1 = "images/Elf/ea1.png" level2 = "images/Elf/ea2.png" level3 = "images/Elf/ea3.png" level4 = "images/Elf/ea4.png" level5 = "images/Elf/ea5.png" level6 = "images/Elf/ea6.png" level7 = "images/Elf/ea7.png" level8 = "images/Elf/ea8.png"/>
+        <die sheet = "images/Elf/ed.png" count = "4"/>
+        <Stats>
+            <spawnpos x="120" y = "475"/>
+            <level1 attack = "4" health = "60" manacost = "240"/>
+            <level2 attack = "5" health = "60" manacost = "270"/>
+            <level3 attack = "7" health = "65" manacost = "300"/>
+            <level4 attack = "8" health = "70" manacost = "330"/>
+            <level5 attack = "9" health = "70" manacost = "350"/>
+            <level6 attack = "11" health = "75" manacost = "375"/>
+            <level7 attack = "13" health = "80" manacost = "385"/>
+            <level8 attack = "14" health = "90" manacost = "390"/>
+        </Stats>
+    </enemy>
+    <enemy name = "Warrior">
+        <walk count = "8" level1 = "images/Warrior/fw1.png" level2 = "images/Warrior/fw2.png" level3 = "images/Warrior/fw3.png" level4 = "images/Warrior/fw4.png" level5 = "images/Warrior/fw5.png" level6 = "images/Warrior/fw6.png" level7 = "images/Warrior/fw7.png" level8 = "images/Warrior/fw8.png"/>
+        <attack count = "3" level1 = "images/Warrior/fa1.png" level2 = "images/Warrior/fa2.png" level3 = "images/Warrior/fa3.png" level4 = "images/Warrior/fa4.png" level5 = "images/Warrior/fa5.png" level6 = "images/Warrior/fa6.png" level7 = "images/Warrior/fa7.png" level8 = "images/Warrior/fa8.png"/>
+        <die sheet = "images/Warrior/fd.png" count = "5"/>
+        <Stats>
+            <spawnpos x="120" y = "475"/>
+            <level1 attack = "10" health = "215" manacost = "600"/>
+            <level2 attack = "12" health = "240" manacost = "620"/>
+            <level3 attack = "13" health = "260" manacost = "640"/>
+            <level4 attack = "14" health = "280" manacost = "660"/>
+            <level5 attack = "15" health = "300" manacost = "680"/>
+            <level6 attack = "17" health = "320" manacost = "700"/>
+            <level7 attack = "18" health = "330" manacost = "725"/>
+            <level8 attack = "20" health = "350" manacost = "750"/>
+        </Stats>
+    </enemy>
+</Allies>
+

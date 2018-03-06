@@ -1,0 +1,83 @@
+<Spells>
+
+    <spell name = "Heal">
+
+        <animation healing = "images/heal.png">
+
+            <sheet count = "4">
+
+            </sheet>
+
+        </animation>
+
+    </spell>
+
+    <spell name = "ArrowExplosion">
+
+        <animation explo = "images/arrowExplosion.png">
+
+            <sheet count = "7">
+
+            </sheet>
+
+        </animation>
+
+    </spell>
+    <spell name = "Wizard1">
+        <animation shootEffect = "images/Wizard/spells/spell1.png">
+            <sheet count = "1">
+            </sheet>
+        </animation>
+        <animation areaEffect = "images/Wizard/spells/spell1_exp.png">
+            <sheet count = "6"/>
+        </animation>
+
+    </spell>
+    <spell name = "Wizard2">
+        <animation shootEffect = "images/Wizard/spells/spell2.png">
+            <sheet count = "1">
+            </sheet>
+        </animation>
+        <animation areaEffect = "images/Wizard/spells/spell2_exp.png">
+            <sheet count = "6"/>
+        </animation>
+
+    </spell>
+    <spell name = "ElfArrow">
+        <animation shootEffect = "images/Elf/arrows/1.png">
+            <sheet count = "1">
+            </sheet>
+        </animation>
+        <animation areaEffect = "images/Wizard/spells/spell2_exp.png">
+            <sheet count = "6"/>
+        </animation>
+
+    </spell>
+    <spell name = "Fireball">
+        <animation shootEffect = "images/fireball1.png">
+            <sheet count = "4">
+            </sheet>
+        </animation>
+        <animation areaEffect = "images/fireball2.png">
+            <sheet count = "3"/>
+        </animation>
+    </spell>
+    <spell name = "Storm">
+        <animation areaEffect = "images/storm.png">
+            <sheet count = "10"/>
+        </animation>
+    </spell>
+    <spell name = "StopTime">
+        <animation areaEffect = "images/stopTime.png">
+            <sheet count = "4"/>
+        </animation>
+    </spell>
+    <spell name = "WindBlow">
+        <animation areaEffect = "images/windblow.png">
+            <sheet count = "11"/>
+        </animation>
+    </spell>
+
+</Spells>
+
+

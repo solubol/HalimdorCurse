@@ -1,0 +1,241 @@
+<Enemies>
+    <enemy name = "Ward" chance="103" x="" y="522">
+        <animation walk = "images/warrior_walkleft.png">
+            <sheet count = "3"></sheet>
+        </animation>
+        <animation attack = "images/warrior_attack.png">
+            <sheet count = "3"></sheet>
+        </animation>
+        <animation die = "images/warrior_death.png">
+            <sheet count = "2"></sheet>
+        </animation>
+        <loot cash="2"/>
+    </enemy>
+    
+    <enemy name="Orc" chance = "115" x="" y="494">
+        <animation walk = "images/orc_walk.png">
+            <sheet count = "6"></sheet>
+        </animation>
+        <animation attack = "images/orc_attack.png">
+            <sheet count = "3"></sheet>
+        </animation>
+        <animation die = "images/orc_die.png">
+            <sheet count = "3"></sheet>
+        </animation>
+        <loot cash="2"/>
+    </enemy>
+
+    <enemy name="BlueOrc" chance="100" x="" y="494">
+        <animation walk = "images/orc2_walk.png">
+            <sheet count = "6"></sheet>
+        </animation>
+        <animation attack = "images/orc2_attack.png">
+            <sheet count = "3"></sheet>
+        </animation>
+        <animation die = "images/orc2_die.png">
+            <sheet count = "3"></sheet>
+        </animation>
+        <loot cash="3"/>
+    </enemy>
+    
+    <enemy name="OrcBerserker" chance="70" x="" y="494">
+        <animation walk = "images/orc3_walk.png">
+            <sheet count = "6"></sheet>
+        </animation>
+        <animation attack = "images/orc3_attack.png">
+            <sheet count = "3"></sheet>
+        </animation>
+        <animation die = "images/orc3_die.png">
+            <sheet count = "3"></sheet>
+        </animation>
+        <loot cash="5"/>
+    </enemy>
+    <enemy name="Scorn" chance="20" x="" y="455">
+        <animation walk = "images/scorn/scorn walk.png">
+            <sheet count = "4"></sheet>
+        </animation>
+        <animation attack = "images/scorn/scorn attack.png">
+            <sheet count = "2"></sheet>
+        </animation>
+        <animation die = "images/scorn/scorn die.png">
+            <sheet count = "3"></sheet>
+        </animation>
+        <loot cash="22"/>
+    </enemy>
+    <enemy name="SwordFighter" chance="60" x="" y="455">
+        <animation walk = "images/SwordFighter/swordfighter walk.png">
+            <sheet count = "4"></sheet>
+        </animation>
+        <animation attack = "images/SwordFighter/swordfighter attack.png">
+            <sheet count = "3"></sheet>
+        </animation>
+        <animation die = "images/SwordFighter/swordfighter die.png">
+            <sheet count = "3"></sheet>
+        </animation>
+        <loot cash="35"/>
+    </enemy>
+    <enemy name="BrownOrc" chance="70" x="" y="484">
+        <animation walk = "images/BrownOrc/orc walk.png">
+            <sheet count = "4"></sheet>
+        </animation>
+        <animation attack = "images/BrownOrc/orc attack.png">
+            <sheet count = "3"></sheet>
+        </animation>
+        <animation die = "images/BrownOrc/orc die.png">
+            <sheet count = "1"></sheet>
+        </animation>
+        <loot cash="5"/>
+    </enemy>
+    <enemy name="Bear" chance="65" x="" y="464">
+        <animation walk = "images/bear/bear walk.png">
+            <sheet count = "4"></sheet>
+        </animation>
+        <animation attack = "images/bear/bear attack.png">
+            <sheet count = "3"></sheet>
+        </animation>
+        <animation die = "images/bear/bear die.png">
+            <sheet count = "1"></sheet>
+        </animation>
+        <loot cash="6"/>
+    </enemy>
+    <enemy name="Lizard" chance="85" x="" y="494">
+        <animation walk = "images/Lizardmen_walk.png">
+            <sheet count = "6"></sheet>
+        </animation>
+        <animation attack = "images/Lizardmen_attack.png">
+            <sheet count = "3"></sheet>
+        </animation>
+        <animation die = "images/Lizardmen_die.png">
+            <sheet count = "3"></sheet>
+        </animation>
+        <loot cash="4"/>
+    </enemy>
+    <enemy name="RedLizard" chance="60" x="" y="494">
+        <animation walk = "images/Lizardmen_red/Lizard red walk.png">
+            <sheet count = "6"></sheet>
+        </animation>
+        <animation attack = "images/Lizardmen_red/Lizard red attack.png">
+            <sheet count = "2"></sheet>
+        </animation>
+        <animation die = "images/Lizardmen_red/Lizard red die.png">
+            <sheet count = "3"></sheet>
+        </animation>
+        <loot cash="10"/>
+    </enemy>
+    <enemy name="AxeSoldier" chance="40" x="" y="485">
+        <animation walk = "images/Axe Soldier/Axe Soldier walk.png">
+            <sheet count = "4"></sheet>
+        </animation>
+        <animation attack = "images/Axe Soldier/Axe Soldier attack.png">
+            <sheet count = "2"></sheet>
+        </animation>
+        <animation die = "images/Axe Soldier/Axe Soldier die.png">
+            <sheet count = "4"></sheet>
+        </animation>
+        <loot cash="24"/>
+    </enemy>
+    <enemy name="Draken" chance="2" x="" y="445">
+        <animation walk = "images/Draken/Draken walk.png">
+            <sheet count = "6"></sheet>
+        </animation>
+        <animation attack = "images/Draken/Draken attack.png">
+            <sheet count = "4"></sheet>
+        </animation>
+        <animation die = "images/Draken/Draken die.png">
+            <sheet count = "8"></sheet>
+        </animation>
+        <loot cash="200"/>
+    </enemy>
+    <enemy name="Human" chance="55" x="" y="475">
+        <animation walk = "images/Human/human walk.png">
+            <sheet count = "4"></sheet>
+        </animation>
+        <animation attack = "images/Human/human attack.png">
+            <sheet count = "2"></sheet>
+        </animation>
+        <animation die = "images/Human/human die.png">
+            <sheet count = "3"></sheet>
+        </animation>
+        <loot cash="10"/>
+    </enemy>
+    <enemy name="Minotaur" chance="23" x="" y="467">
+        <animation walk = "images/minotaur/Minotaur_walk.png">
+            <sheet count = "5"></sheet>
+        </animation>
+        <animation attack = "images/minotaur/Minotaur_attack.png">
+            <sheet count = "7"></sheet>
+        </animation>
+        <animation die = "images/minotaur/Minotaur_die.png">
+            <sheet count = "4"></sheet>
+        </animation>
+        <loot cash="25"/>
+    </enemy>
+    <enemy name="Cyclops" chance="35" x="" y="444">
+        <animation walk = "images/Cyclops/Cyclops_walk.png">
+            <sheet count = "6"></sheet>
+        </animation>
+        <animation attack = "images/Cyclops/Cyclops_attack.png">
+            <sheet count = "4"></sheet>
+        </animation>
+        <animation die = "images/Cyclops/Cyclops_die.png">
+            <sheet count = "3"></sheet>
+        </animation>
+        <loot cash="20"/>
+    </enemy>
+    <enemy name="Skeleton" chance="110" x="" y="484">
+        <animation walk = "images/skeleton/skeleton_walk.png">
+            <sheet count = "6"></sheet>
+        </animation>
+        <animation attack = "images/skeleton/skeleton_attack.png">
+            <sheet count = "5"></sheet>
+        </animation>
+        <animation die = "images/skeleton/skeleton_die.png">
+            <sheet count = "2"></sheet>
+        </animation>
+        <animation spawn = "images/skeleton/skeleton_spawn.png">
+            <sheet count = "8"></sheet>
+        </animation>
+        <loot cash="1"/>
+    </enemy>
+    <enemy name="BlackKnight" chance="5" x="" y="484">
+        <animation walk = "images/black knight/black knight walk.png">
+            <sheet count = "6"></sheet>
+        </animation>
+        <animation attack = "images/black knight/black knight attack.png">
+            <sheet count = "6"></sheet>
+        </animation>
+        <animation die = "images/black knight/black knight die.png">
+            <sheet count = "3"></sheet>
+        </animation>
+        <animation spawn = "images/black knight/black knight spawn.png">
+            <sheet count = "9"></sheet>
+        </animation>
+        <loot cash="500"/>
+    </enemy>
+    <enemy name="Balbar" chance="2" x="" y="434">
+        <animation walk = "images/Balbar/Balbar_walk.png">
+            <sheet count = "3"></sheet>
+        </animation>
+        <animation attack = "images/Balbar/Balbar_attack.png">
+            <sheet count = "3"></sheet>
+        </animation>
+        <animation die = "images/Balbar/Balbar_die.png">
+            <sheet count = "3"></sheet>
+        </animation>
+        <loot cash="260"/>
+    </enemy>
+    <enemy name="MazeKeeper" chance="3" x="" y="405">
+        <animation walk = "images/Maze Keeper/walk.png">
+            <sheet count = "4"></sheet>
+        </animation>
+        <animation attack = "images/Maze Keeper/attack.png">
+            <sheet count = "6"></sheet>
+        </animation>
+        <animation die = "images/Maze Keeper/die.png">
+            <sheet count = "3"></sheet>
+        </animation>
+        <loot cash="300"/>
+    </enemy>
+</Enemies>
+
+

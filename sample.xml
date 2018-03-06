@@ -1,0 +1,18 @@
+<Player cash="0" cashbonus="0" tower="0">
+    <Stats>
+        <health level="1">100</health>
+        <mana level="1">100</mana>
+        <agility level="1">100</agility>
+        <story progress="1" />
+        <princess level="0"/>
+        <cashbonus level="0">0</cashbonus>
+    </Stats>
+    <Arrows>
+        <arrow level="1" name="arrow" attack = "10" cost = "40"/>
+    </Arrows>
+    <Minions>
+    </Minions>
+    <Spells>
+    </Spells>
+    
+</Player>

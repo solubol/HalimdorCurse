@@ -1,0 +1,14 @@
+<Backgrounds>
+    <bg name ="basic">
+        <image path = "images/backgrounds/backgroundbig.png" layer="0" num = "2" dt = "0.1" posx="0" posy="0" dirx="-1" diry="0" speedx="1" speedy="0" sizex="1080"/>
+        <image path = "images/backgrounds/BackgroundCastle.png" layer="1" num = "2" dt ="0" posx="0" posy="100" dirx="0" diry="0" speedx="0" speedy="0" sizex="1024"/>
+    </bg>
+    <bg name="dark">
+        <image path = "images/backgrounds/wallpaper.png" layer="1" num = "1" dt = "0" posx = "0" posy="0" dirx="0" diry="0" speedx="0" speedy="0" sizex="0"/>
+        <image path = "images/backgrounds/moon.png" layer="1" num = "1" dt = "0.5" posx = "-250" posy="250" dirx="1" diry="-1" speedx="1" speedy="1" sizex="0"/>
+        <image path = "images/backgrounds/nubes2.png" layer="2" num = "1" dt = "0.04" posx = "0" posy="0" dirx="0" diry="0" speedx="2" speedy="0" sizex="1080"/>
+        <image path = "images/backgrounds/m.png" layer="3" num = "1" dt = "0.04" posx = "0" posy="100" dirx="0" diry="0" speedx="0" speedy="0" sizex="0"/>
+    </bg>
+</Backgrounds>
+
+

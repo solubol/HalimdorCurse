@@ -1,0 +1,367 @@
+<Shop>
+
+  <button num = "1" image="images/shop/princess_ico.png" tipo="torre_princess" posx="100" posy="100">
+
+    <upgrades>
+
+        <level0 heal = "0" dt = "10" chance = "45"/>
+
+        <level1 heal = "4" dt = "10" chance = "45"/>
+
+        <level2 heal = "8" dt = "10" chance = "45"/>
+
+        <level3 heal = "12" dt = "10" chance = "45"/>
+
+        <level4 heal = "15" dt = "10" chance = "45"/>
+
+        <level5 heal = "20" dt = "10" chance = "45"/>
+
+        <level6 heal = "30" dt = "10" chance = "45"/>
+
+        <level7 heal = "45" dt = "10" chance = "45"/>
+
+        <level8 heal = "60" dt = "10" chance = "45"/>
+
+        <level9 heal = "65" dt = "10" chance = "45"/>
+
+    </upgrades>
+
+    <cost level0="0" level1="30" level2="55" level3="100" level4="180" level5="230" level6="315" level7="410" level8="500" level9="3500"/>
+
+  </button>
+
+  <button num = "2" image="images/shop/towerlife.png" tipo="torre_hp" posx="100" posy="100">
+
+    <upgrades level1="100" level2="125" level3="175" level4="250" level5="350" level6="475" level7="625" level8="800" level9="1000"/>
+
+    <cost level1="0" level2="45" level3="90" level4="175" level5="260" level6="330" level7="410" level8="500" level9="650"/>
+ 
+ </button>
+
+  <button num = "3" image="images/shop/money.png" tipo="torre_cashbonus" posx="100" posy="100">
+
+    <upgrades level0 = "0" level1="5" level2="10" level3="15" level4="20" level5="25" level6="30" level7="35" level8="40"/>
+
+    <cost level1="45" level2="90" level3="175" level4="260" level5="330" level6="410" level7="500" level8="650"/>
+
+  </button>
+
+  <button num = "4" image="images/shop/thunder.png" tipo="torre_mp" posx="100" posy="100">
+
+    <upgrades level1="100" level2="125" level3="175" level4="250" level5="350" level6="475" level7="625" level8="800" level9="1000"/>
+    
+    <cost level1="0" level2="45" level3="90" level4="175" level5="260" level6="330" level7="410" level8="500" level9="650"/>
+
+  </button>
+
+  <button num = "5" image="images/shop/speed.png" tipo="torre_ap" posx="100" posy="100">
+
+    <upgrades level1="100" level2="125" level3="175" level4="250" level5="350" level6="475" level7="625" level8="800" level9="1000"/>
+    
+    <cost level1="0" level2="45" level3="90" level4="175" level5="260" level6="330" level7="410" level8="500" level9="650"/>
+
+  </button>
+
+  <button num = "6" image="images/shop/dwarf_ico.png" tipo="dwarf" posx="100" posy="100">
+
+    <upgrades level0="0" level1="1" level2="2" level3="3" level4="4" level5="5" level6="6" level7="7" level8="8"/>
+
+    <cost level0="0" level1="10" level2="25" level3="45" level4="75" level5="110" level6="160" level7="220" level8="300"/>
+
+  </button>
+
+  <button num = "7" image="images/shop/cleric_ico.png" tipo="cleric" posx="100" posy="100">
+
+    <upgrades level0="0" level1="1" level2="2" level3="3" level4="4" level5="5" level6="6" level7="7" level8="8"/>
+
+    <cost level0="0" level1="30" level2="50" level3="90" level4="180" level5="200" level6="320" level7="430" level8="500"/>
+  </button>
+  <button num = "8" image="images/shop/wizard_ico.png" tipo="wizard" posx="100" posy="100">
+
+    <upgrades level0="0" level1="1" level2="2" level3="3" level4="4" level5="5" level6="6" level7="7" level8="8"/>
+
+    <cost level0="0" level1="70" level2="100" level3="170" level4="250" level5="360" level6="470" level7="580" level8="700"/>
+  </button>
+  <button num = "9" image="images/shop/elf_ico.png" tipo="elf" posx="100" posy="100">
+
+    <upgrades level0="0" level1="1" level2="2" level3="3" level4="4" level5="5" level6="6" level7="7" level8="8"/>
+
+    <cost level0="0" level1="100" level2="150" level3="200" level4="350" level5="435" level6="540" level7="680" level8="800"/>
+  </button>
+  <button num = "10" image="images/shop/warrior_ico.png" tipo="warrior" posx="100" posy="100">
+
+    <upgrades level0="0" level1="1" level2="2" level3="3" level4="4" level5="5" level6="6" level7="7" level8="8"/>
+
+    <cost level0="0" level1="300" level2="550" level3="900" level4="1200" level5="1400" level6="1600" level7="1750" level8="2000"/>
+  </button>
+  
+  <button num = "11" image="images/shop/arrow.png" tipo="shoparrow" posx="100" posy="100">
+
+    <upgrades>
+
+        <level0 attack = "0" ag_cost = "35"/>
+
+        <level1 attack = "10" ag_cost = "40"/>
+
+        <level2 attack = "11" ag_cost = "38"/>
+
+        <level3 attack = "13" ag_cost = "35"/>
+
+        <level4 attack = "13" ag_cost = "30"/>
+
+        <level5 attack = "16" ag_cost = "30"/>
+
+        <level6 attack = "20" ag_cost = "30"/>
+
+        <level7 attack = "25" ag_cost = "30"/>
+
+        <level8 attack = "31" ag_cost = "30"/>
+
+        <level9 attack = "38" ag_cost = "30"/>
+
+        <level10 attack = "40" ag_cost = "25"/>
+
+
+    </upgrades>
+    <cost level0="0" level1="10" level2="10" level3="20" level4="35" level5="50" level6="70" level7="85" level8="100" level9="130" level10="150"/>
+  </button>
+  <button num = "12" image="images/shop/poisonArrow.png" tipo="shoppoisonArrow" posx="100" posy="100">
+
+    <upgrades>
+
+        <level0 attack = "0" ag_cost = "45" poisondmg="4" poisondt="3" ticks ="4"/>
+
+        <level1 attack = "8" ag_cost = "45" poisondmg="4" poisondt="3" ticks ="4"/>
+
+        <level2 attack = "10" ag_cost = "43" poisondmg="5" poisondt="3" ticks ="4"/>
+
+        <level3 attack = "11" ag_cost = "40" poisondmg="5" poisondt="3" ticks ="4"/>
+
+        <level4 attack = "13" ag_cost = "40" poisondmg="6" poisondt="3" ticks ="5"/>
+
+        <level5 attack = "15" ag_cost = "40" poisondmg="6" poisondt="2" ticks ="5"/>
+
+        <level6 attack = "15" ag_cost = "38" poisondmg="7" poisondt="2" ticks ="5"/>
+
+        <level7 attack = "15" ag_cost = "38" poisondmg="7" poisondt="2" ticks ="6"/>
+
+        <level8 attack = "18" ag_cost = "38" poisondmg="8" poisondt="1" ticks ="6"/>
+
+        <level9 attack = "18" ag_cost = "35" poisondmg="8" poisondt="1" ticks ="7"/>
+
+        <level10 attack = "20" ag_cost = "35" poisondmg="9" poisondt="1" ticks ="7"/>
+
+
+    </upgrades>
+    <cost level0="0" level1="30" level2="40" level3="50" level4="65" level5="80" level6="95" level7="110" level8="130" level9="150" level10="170"/>
+  </button>
+  <button num = "13" image="images/shop/explosiveArrow.png" tipo="shopexplosiveArrow" posx="100" posy="100">
+
+    <upgrades>
+
+        <level0 attack = "0" ag_cost = "79" explo="8"/>
+
+        <level1 attack = "10" ag_cost = "70" explo="5"/>
+
+        <level2 attack = "11" ag_cost = "70" explo="6"/>
+
+        <level3 attack = "13" ag_cost = "65" explo="8"/>
+
+        <level4 attack = "13" ag_cost = "65" explo="10"/>
+
+        <level5 attack = "15" ag_cost = "60" explo="11"/>
+
+        <level6 attack = "15" ag_cost = "60" explo="14"/>
+
+        <level7 attack = "15" ag_cost = "55" explo="15"/>
+
+        <level8 attack = "18" ag_cost = "55" explo="18"/>
+
+        <level9 attack = "18" ag_cost = "50" explo="20"/>
+
+        <level10 attack = "20" ag_cost = "50" explo="23"/>
+
+
+    </upgrades>
+    <cost level0="0" level1="60" level2="75" level3="125" level4="180" level5="240" level6="310" level7="390" level8="480" level9="490" level10="515"/>
+  </button>
+  <button num = "14" image="images/shop/frostArrow.png" tipo="shopfrostArrow" posx="100" posy="100">
+
+    <upgrades>
+
+        <level0 attack = "0" ag_cost = "55" duration="0"/>
+
+        <level1 attack = "10" ag_cost = "55" duration="5"/>
+
+        <level2 attack = "11" ag_cost = "53" duration="5"/>
+
+        <level3 attack = "13" ag_cost = "50" duration="6"/>
+
+        <level4 attack = "13" ag_cost = "50" duration="6.5"/>
+
+        <level5 attack = "15" ag_cost = "50" duration="7"/>
+
+        <level6 attack = "15" ag_cost = "48" duration="7"/>
+
+        <level7 attack = "15" ag_cost = "45" duration="8"/>
+
+        <level8 attack = "18" ag_cost = "45" duration="8"/>
+
+        <level9 attack = "20" ag_cost = "40" duration="9"/>
+
+        <level10 attack = "25" ag_cost = "40" duration="10"/>
+
+
+    </upgrades>
+    <cost level0="0" level1="90" level2="110" level3="155" level4="200" level5="280" level6="350" level7="430" level8="500" level9="580" level10="650"/>
+  </button>
+  <button num = "15" image="images/shop/pierceArrow.png" tipo="shoppierceArrow" posx="100" posy="100">
+
+    <upgrades>
+
+        <level0 attack = "0" ag_cost = "65" multiplier="0"/>
+
+        <level1 attack = "7" ag_cost = "65" multiplier="0.1"/>
+
+        <level2 attack = "9" ag_cost = "60" multiplier="0.2"/>
+
+        <level3 attack = "10" ag_cost = "55" multiplier="0.3"/>
+
+        <level4 attack = "10" ag_cost = "50" multiplier="0.4"/>
+
+        <level5 attack = "12" ag_cost = "50" multiplier="0.5"/>
+
+        <level6 attack = "12" ag_cost = "50" multiplier="0.55"/>
+
+        <level7 attack = "15" ag_cost = "45" multiplier="0.6"/>
+
+        <level8 attack = "15" ag_cost = "45" multiplier="0.65"/>
+
+        <level9 attack = "15" ag_cost = "45" multiplier="0.7"/>
+
+        <level10 attack = "15" ag_cost = "45" multiplier="0.75"/>
+
+
+    </upgrades>
+    <cost level0="0" level1="130" level2="170" level3="240" level4="300" level5="330" level6="380" level7="450" level8="530" level9="640" level10="700"/>
+  </button>
+  <button num = "16" image="images/shop/fireball_ico.png" tipo="fireball" posx="100" posy="100">
+
+    <upgrades>
+        <level0 damage = "0" mana = "0"/>
+        <level1 damage = "20" mana = "40"/>
+
+        <level2 damage = "25" mana = "45"/>
+
+        <level3 damage = "30" mana = "60"/>
+
+        <level4 damage = "40" mana = "70"/>
+
+        <level5 damage = "50" mana = "80"/>
+
+        <level6 damage = "55" mana = "85"/>
+
+        <level7 damage = "60" mana = "90"/>
+
+        <level8 damage = "75" mana = "100"/>
+
+
+    </upgrades>
+    <cost level0="0" level1="30" level2="55" level3="100" level4="150" level5="230" level6="315" level7="410" level8="500" level9="300" level10="450"/>
+  </button>
+  <button num = "17" image="images/shop/storm_ico.png" tipo="storm" posx="100" posy="100">
+
+    <upgrades>
+        <level0 damage = "0" mana = "0"/>
+        <level1 damage = "30" mana = "60"/>
+
+        <level2 damage = "35" mana = "65"/>
+
+        <level3 damage = "38" mana = "70"/>
+
+        <level4 damage = "45" mana = "80"/>
+
+        <level5 damage = "50" mana = "90"/>
+
+        <level6 damage = "50" mana = "100"/>
+
+        <level7 damage = "60" mana = "110"/>
+
+        <level8 damage = "65" mana = "120"/>
+
+
+    </upgrades>
+    <cost level0="0" level1="50" level2="70" level3="125" level4="210" level5="270" level6="380" level7="490" level8="600" level9="300" level10="450"/>
+  </button>
+  <button num = "18" image="images/shop/time_ico.png" tipo="stoptime" posx="100" posy="100">
+  <upgrades>
+        <level0 dt = "0" mana = "0"/>
+        <level1 dt = "3" mana = "115"/>
+
+        <level2 dt = "4" mana = "130"/>
+
+        <level3 dt = "5" mana = "140"/>
+
+        <level4 dt = "5.5" mana = "150"/>
+
+        <level5 dt = "6" mana = "170"/>
+
+        <level6 dt = "6.5" mana = "190"/>
+
+        <level7 dt = "7" mana = "210"/>
+
+        <level8 dt = "7.5" mana = "230"/>
+
+
+    </upgrades>
+    <cost level0="0" level1="70" level2="90" level3="165" level4="250" level5="320" level6="450" level7="580" level8="700" level9="300" level10="450"/>
+  </button>
+  <button num = "19" image="images/shop/wind_ico.png" tipo="windblow" posx="100" posy="100">
+  <upgrades>
+        <level0 dx = "0" mana = "0"/>
+        <level1 dx = "500" mana = "200"/>
+
+        <level2 dx = "600" mana = "230"/>
+
+        <level3 dx = "650" mana = "260"/>
+
+        <level4 dx = "700" mana = "300"/>
+
+        <level5 dx = "750" mana = "430"/>
+
+        <level6 dx = "880" mana = "345"/>
+
+        <level7 dx = "900" mana = "370"/>
+
+        <level8 dx = "1000" mana = "400"/>
+
+
+    </upgrades>
+    <cost level0="0" level1="200" level2="240" level3="320" level4="450" level5="600" level6="750" level7="900" level8="1000" level9="300" level10="450"/>
+  </button>
+  <button num = "20" image="images/shop/MassHeal.png" tipo="massheal" posx="100" posy="100">
+  <upgrades>
+        <level0 hp = "0" mana = "0"/>
+        <level1 hp = "45" mana = "100"/>
+
+        <level2 hp = "55" mana = "125"/>
+
+        <level3 hp = "65" mana = "150"/>
+
+        <level4 hp = "75" mana = "175"/>
+
+        <level5 hp = "80" mana = "200"/>
+
+        <level6 hp = "95" mana = "225"/>
+
+        <level7 hp = "110" mana = "250"/>
+
+        <level8 hp = "120" mana = "275"/>
+
+
+    </upgrades>
+    <cost level0="0" level1="250" level2="320" level3="400" level4="480" level5="620" level6="790" level7="950" level8="1100" level9="300" level10="450"/>
+  </button>
+
+</Shop>
+
